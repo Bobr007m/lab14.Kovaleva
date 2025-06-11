@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometryclass", "..\Ceometr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCollectionH", "..\MyCollectionH\MyCollectionH.csproj", "{13AED58B-74AF-42AE-A67D-50285C7403F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject8", "..\TestProject8\TestProject8.csproj", "{5566E73D-94BB-41EA-9E9A-4BFADBD5A5C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{13AED58B-74AF-42AE-A67D-50285C7403F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13AED58B-74AF-42AE-A67D-50285C7403F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13AED58B-74AF-42AE-A67D-50285C7403F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5566E73D-94BB-41EA-9E9A-4BFADBD5A5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5566E73D-94BB-41EA-9E9A-4BFADBD5A5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5566E73D-94BB-41EA-9E9A-4BFADBD5A5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5566E73D-94BB-41EA-9E9A-4BFADBD5A5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
